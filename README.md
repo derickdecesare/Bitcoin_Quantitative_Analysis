@@ -29,3 +29,7 @@ Upon launching the bitcoin_analysis.ipynb run each cell sequentially.
 ## Interesting Findings
 
 The sharpe ratio of bitcoin is 26% higher than the s&p 500. This means that bitcoin has had a better risk adjusted return than the s&p500 over the past decade.
+
+Here is a chart showing the rolling 90 day beta for bitcoin:
+
+[!][beta](beta.png)
