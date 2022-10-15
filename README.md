@@ -32,4 +32,4 @@ The sharpe ratio of bitcoin is 26% higher than the s&p 500. This means that bitc
 
 Here is a chart showing the rolling 90 day beta for bitcoin:
 
-[!][beta](beta.png)
+![beta](beta.png)
